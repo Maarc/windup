@@ -3,12 +3,12 @@
     <#assign applicationReportIndexModel = reportModel.applicationReportIndexModel>
 
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
         <title>${reportModel.projectModel.name} - Migration Issues</title>
-        <link href="resources/css/bootstrap.min.css" rel="stylesheet">
-        <link href="resources/css/windup.css" rel="stylesheet" media="screen">
-        <link href="resources/css/windup.java.css" rel="stylesheet" media="screen">
+        <link href="resources/css/bootstrap.min.css" rel="stylesheet"/>
+        <link href="resources/css/windup.css" rel="stylesheet" media="screen"/>
+        <link href="resources/css/windup.java.css" rel="stylesheet" media="screen"/>
     </head>
     <body role="document">
         <!-- Navbar -->
