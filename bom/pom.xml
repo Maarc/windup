@@ -16,7 +16,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>22</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.jboss.windup</groupId>
@@ -418,7 +418,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>31.1-jre</version>
+                <version>32.0.0-jre</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
