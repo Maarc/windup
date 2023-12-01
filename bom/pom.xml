@@ -16,7 +16,7 @@
         <groupId>org.jboss</groupId>
         <artifactId>jboss-parent</artifactId>
         <version>22</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.jboss.windup</groupId>
@@ -392,7 +392,7 @@
             <dependency>
                 <groupId>org.eclipse.jdt</groupId>
                 <artifactId>org.eclipse.jdt.core</artifactId>
-                <version>3.29.0</version>
+                <version>3.35.0</version>
                 <scope>provided</scope>
             </dependency>
             <dependency>
